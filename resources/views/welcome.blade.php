@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome To Laravel
+                    Welcome To Laravel <br>
+					<sm>Author:Avanish Shukla</sm>
                 </div>
 
                 <div class="links">
